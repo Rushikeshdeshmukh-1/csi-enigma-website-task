@@ -6,7 +6,7 @@
 
 Watch the live demonstration below:
 
-[![Demo Video](https://drive.google.com/drive/folders/1cA15UrSiY1jmcx7em7GixmPmzs-NCsGx?usp=drive_link)
+[![Demo Video](https://drive.google.com/file/d/1-MLNEH_bhHEvkEplaHPMKtSWZ1oiqk5I/view?usp=drive_link)
 
 ---
 
